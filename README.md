@@ -1,4 +1,4 @@
-# uma_grover
+# greenhouse-rover-urdf
 
 ROS robot description package for the UMA Grover rover. Contains the URDF model, meshes, and configuration used in the [greenhouse-rover-ros](https://github.com/carlos-silvap/semestre_i) simulation.
 
